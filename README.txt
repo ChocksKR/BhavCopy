@@ -1,0 +1,1 @@
+This project downloads zip file from NSE India and parses the information
